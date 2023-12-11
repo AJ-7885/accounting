@@ -8,7 +8,7 @@
   <a href="https://github.com/AJ-7885/accountingp/releases">
     <img src="https://img.shields.io/github/v/release/github.com/AJ-7885" alt="GitHub Release (latest by date)" />
   </a>
-  <a href="https://github.com/AJ-7885/accounting/blob/main/LICENSE">
+  <a href="https://github.com/AJ-7885/accounting/blob/main/LICENSE.txt">
     <img src="https://img.shields.io/github/license/github.com/AJ-7885" alt="License" />
   </a>
 </p>
